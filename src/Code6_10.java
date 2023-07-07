@@ -5,7 +5,7 @@ public class Code6_10 {
 		// TODO 自動生成されたメソッド・スタブ
 		int[] heights = {172, 149, 152, 191, 155};
 		
-		// Java.utilパッケージのArrays.sortクラスを使用して並べ替え
+		// Java.utilパッケージのArraysクラスのsortメソッドを使用して並べ替え
 		Arrays.sort(heights);
 		
 		for(int h : heights) {
